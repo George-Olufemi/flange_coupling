@@ -71,7 +71,7 @@ def main():
         print("Diameter of the shaft (d): {:.2f} mm".format(d))
         print("Number of bolts required: {}".format(num_bolts))
         print("Diameter of the bolt (db): {:.2f} mm".format(db))
-        print("Width of the key (dk): {:.2f} mm".format(dk))
+        print("Width of the key (wk): {:.2f} mm".format(wk))
         print("Diameter of the hub (dh): {:.2f} mm".format(dh))
         print("Diameter of the flange (df): {:.2f} mm".format(df))
         print()
